@@ -1,0 +1,24 @@
+{
+  "author": "Matias Tuduri",
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that can retweet",
+  "main": "bot.js",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "twitter",
+    "bot"
+  ],
+  "license": "http://creativecommons.org/licenses/by-sa/3.0",
+  "bugs": {
+    "url": "https://github.com/mtuduri/twitter-bot-nodejs/issues"
+  }
+}
